@@ -7,13 +7,13 @@ A collection of useful skills for AI coding agents.
 Use [add-skill](https://github.com/vercel-labs/add-skill) to install skills:
 
 ```bash
-npx add-skill raiz/imlazy-skills
+npx add-skill lazylagom/imlazy-skills
 ```
 
 Or install a specific skill:
 
 ```bash
-npx add-skill raiz/imlazy-skills --skill gemini-image-watermark-remove
+npx add-skill lazylagom/imlazy-skills --skill gemini-image-watermark-remove
 ```
 
 ## Available Skills
